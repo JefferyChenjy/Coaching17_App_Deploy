@@ -32,3 +32,4 @@
         service: ${{ vars.ECS_SERVICE }}
         cluster: ${{ vars.ECS_CLUSTER }}
         wait-for-service-stability: true
+        
