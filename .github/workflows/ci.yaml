@@ -12,7 +12,7 @@ on:
 # env:
 #   AWS_REGION: us-east-1
 #   ECR_REPOSITORY: alex-coach17-private-repo
-  AWS_ROLE_ARN: arn:aws:iam::255945442255:role/jeffery-oidc-app-role
+  # AWS_ROLE_ARN: arn:aws:iam::255945442255:role/jeffery-oidc-app-role
 #   ECS_CLUSTER: alex-coach17-ecs-cluster
 #   ECS_SERVICE: alex-task-def
 
