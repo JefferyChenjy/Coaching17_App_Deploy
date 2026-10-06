@@ -12,7 +12,7 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: jeffery-coach17-ecr
-  AWS_ROLE_ARN: arn:aws:iam::255945442255:role/jeffery-oidc-app-role
+  AWS_ROLE_ARN: arn:aws:iam::255945442255:role/jeffery-oidc-role
   ECS_CLUSTER: jeffery-coach17-ecs
   ECS_SERVICE: jeffery-ecs-td
 
